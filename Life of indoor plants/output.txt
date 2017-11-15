@@ -1,0 +1,3 @@
+Running 1 test(s):
+Test #1 "test_create_floweringHouseplant_Bloom" 
+Congratulations! The plant is strengthening.
